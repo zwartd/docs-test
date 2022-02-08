@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized | CLEVR Docs</title>
+	<atom:link href="/path/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/</link>
+	<description>Documentation for CLEVR&#039; Smart Digital Factory Tooling</description>
+	<lastBuildDate>Wed, 06 Nov 2019 07:29:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>/path/wp-content/uploads/2021/05/cropped-CLEVR-Flavicon-64x64-1-32x32.png</url>
+	<title>Uncategorized | CLEVR Docs</title>
+	<link>/path/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Find potential bugs</title>
+		<link>/path/2019/11/06/find-potential-bugs/</link>
+					<comments>/path/2019/11/06/find-potential-bugs/#respond</comments>
+		
+		<dc:creator><![CDATA[Bart Tolen]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 07:29:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/path/?p=422</guid>
+
+					<description><![CDATA[Many rules in ACR detect either wrong code, or code that is more likely to result in bugs or other problems. ACR is a static analysis tool that scans your Mendix model and compares it against a database of rules based on Mendix best practices and other developer guidelines. It then reports when a rule [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h4>
+
+Many rules in ACR detect either wrong code, or code that is more likely to result in bugs or other problems.
+
+</h4>
+
+
+
+<p>ACR is a static analysis tool that scans your Mendix model and compares it against a database of rules based on Mendix best practices and other developer guidelines. It then reports when a rule is violated. These violations are grouped into categories. which helps you find bugs, code smells and security vulnerabilities.</p>
+
+
+
+<p><strong>Bugs</strong></p>
+
+
+
+<p>Violations that fall under <em>Reliability</em> category often point to buggy code. Buggy code is code that is likely not working as intended. For example, referring to the <code>currentUser</code> in a system process will result in an error during runtime.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="598" src="/path/wp-content/uploads/2019/11/Untitled-1024x598.png" alt="" class="wp-image-424" srcset="/path/wp-content/uploads/2019/11/Untitled-980x572.png 980w, /path/wp-content/uploads/2019/11/Untitled-480x280.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></figure>
+
+
+
+<p><strong>Code smells</strong></p>
+
+
+
+<p>Smelly code probably does what it should, but is hard to maintain. As new features are built, smelly code tends to develop into real issues. Violations in the <em>Maintainability</em> category point to different code smells such as large microflows or entities.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="631" src="/path/wp-content/uploads/2019/11/Untitled-1-1024x631.png" alt="" class="wp-image-425" srcset="/path/wp-content/uploads/2019/11/Untitled-1-980x604.png 980w, /path/wp-content/uploads/2019/11/Untitled-1-480x296.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></figure>
+
+
+
+<p><strong>Security vulnerabilities</strong></p>
+
+
+
+<p>See detailed descriptions of potential security vulnerabilities in your project. By fixing the <em>Security</em> violations you can secure your app and it&#8217;s data.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1024" height="633" src="/path/wp-content/uploads/2019/11/Untitled-2-1024x633.png" alt="" class="wp-image-426" srcset="/path/wp-content/uploads/2019/11/Untitled-2-980x606.png 980w, /path/wp-content/uploads/2019/11/Untitled-2-480x297.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/path/2019/11/06/find-potential-bugs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
