@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/zwartd/docs-test/edit/gh-p
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Test](https://github.com/zwartd/docs-test/blob/c89569cc04700b175c4e5789536a0832e49ac83d/simply-static-1-1644323384/docs/acr-rules/index.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
